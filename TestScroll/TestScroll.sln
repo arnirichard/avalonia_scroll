@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestScroll", "TestScroll\TestScroll.csproj", "{FBF2B590-6946-4028-BD6C-2A535A648A7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestScroll.Desktop", "TestScroll.Desktop\TestScroll.Desktop.csproj", "{4ACC0CA2-DC92-422F-B789-C2AE62E0F19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF2B590-6946-4028-BD6C-2A535A648A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF2B590-6946-4028-BD6C-2A535A648A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF2B590-6946-4028-BD6C-2A535A648A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF2B590-6946-4028-BD6C-2A535A648A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACC0CA2-DC92-422F-B789-C2AE62E0F19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACC0CA2-DC92-422F-B789-C2AE62E0F19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACC0CA2-DC92-422F-B789-C2AE62E0F19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACC0CA2-DC92-422F-B789-C2AE62E0F19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A40207BE-E895-43D4-8C4B-974C2D8E5FDF}
+	EndGlobalSection
+EndGlobal
